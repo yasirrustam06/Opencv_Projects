@@ -20,6 +20,9 @@
 ##  ![Face Bluring](https://user-images.githubusercontent.com/98689629/191607766-7ea5b7bd-e8be-4895-83f0-e0854a68fce4.png)
 
 
+# `Face Detection OUTPUT`
+![213](https://user-images.githubusercontent.com/98689629/191610753-4f30a74c-5e9d-4a84-baea-acdd86225ebd.PNG)
+
 
 
 
